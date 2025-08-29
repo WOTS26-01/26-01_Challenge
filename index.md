@@ -5,7 +5,6 @@ title: "26-01 // Operation: Rising Eagle"
 
 # 26-01 // Operation: Rising Eagle
 
-> *All information has been provided.*
 
 You scanned a coin. You found a page. That already says a lot about you.
 
