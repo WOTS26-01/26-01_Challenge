@@ -45,5 +45,3 @@ A: If you have to ask, you’re already seeing it.
 
 ## Final note
 If a page tells you “All information has been provided,” believe it. Then behave like a warrant officer and verify.
-
-**[Proceed to the Teapot](https://<your-cloudflare-domain>/418)**
